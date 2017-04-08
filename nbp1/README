@@ -1,11 +1,13 @@
-NBP1 Dataset Notes
+NBP1 data set notes.
 
-The dataset clearly shows a linearly decreasing ascent rate producnig a parabolic like trajectory for the balloon. We believe there was a leak in the balloon tether interface which where by hydrogen slowly leaked out of the balloon decreasing lift. 
+A report of the launch can be found at:
+https://noexc.org/wiki/NBP1
+
+The data set clearly shows a linearly decreasing ascent rate producing a parabolic like trajectory for the balloon. We believe there was a leak in the balloon tether interface which where by hydrogen slowly leaked out of the balloon decreasing lift. 
 
 Each line of the csv file is a packet of telemetry from the balloon.
 
 Magnetic field measurements are made using a LSM303 sensor and are the raw data from the respective registers of the sensor.
 
 Temperature data was added last minute and is thought to not be accurate.
-
 
